@@ -1,7 +1,7 @@
-# Olá, eu sou o José Vitor :)👋
+# Olá, eu sou o José Vitor 
 
 - ⚙️ Desenvolvedor de Sistemas Embarcados C
-- 🐍 Me aprofundando em Python
+- 🐍 Me aprofundando em frameworks Python como Django e FastApi
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí
 - 📫 Contato: josevitoraraujodias2011@gmail.com
 
