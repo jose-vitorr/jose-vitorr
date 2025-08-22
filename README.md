@@ -1,7 +1,7 @@
 # Olá, eu sou o José Vitor 
 
 - ⚙️ Desenvolvedor de Sistemas Embarcados C
-- 🐍 Aprofundando habilidades em Python com interesse em Data Science e Mobile (Flutter)
+- 🐍 Aprofundando habilidades em Python com interesse em Data Science
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí
 - 📫 Contato: josevitoraraujodias2011@gmail.com
 
