@@ -1,7 +1,7 @@
 # Olá, eu sou o José Vitor 
 
 - ⚙️ Desenvolvedor de Sistemas Embarcados C
-- 🐍 Me aprofundando em frameworks Python como Django e FastApi
+- 🐍 Aprofundando habilidades em Python e interesse em IA e Mobile (Flutter)
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí
 - 📫 Contato: josevitoraraujodias2011@gmail.com
 
