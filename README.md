@@ -1,23 +1,30 @@
-# Olá, eu sou o José Vitor 
+# Hi, I'm José Vitor! 👋
 
-- ⚙️ Desenvolvedor de Sistemas Embarcados C
-- 🐍 Aprofundando habilidades em Python 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí
-- 📫 Contato: josevitoraraujodias2011@gmail.com
+🚀 **Embedded Developer**  
+Always curious, always learning—especially in C & Python.
+
+## 🏆 Featured Project
+**Ambev Monitoring System (ML for Beer Industry)**
+- Developed a machine learning model to predict the turbidity of effluent water, helping the beer industry optimize their processes and improve sustainability.
+- [Check it out!](https://github.com/GabrFelps/Ambev-Monitoring-System)
+
+## 🔧 Skills
+- Embedded systems
+- C & Python programming
+- Machine Learning (ML)
+- Continuous improvement mindset
+
+## 🎶⚽ Interests
+- Music lover (all genres, always open to discovering new sounds)
+- Soccer fan
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/jse-vitorr/)
+- [Instagram](https://www.instagram.com/jvitorr.dev/)
+
+## 📈 Always Improving
+Every project, every line of code—I’m driven by a desire to improve and learn something new.
 
 ---
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-vitor-ara%C3%BAjo-dias-oliveira-1552aa269/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josevitoraraujodiasoliveira)
-
-<div align = "center">
-<img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-vitorr&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
----
-
-<div> 
-      <img height = "50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-      <img height = "50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-      <img height = "50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-</div>
+> “Everything is an opportunity to get better.”
