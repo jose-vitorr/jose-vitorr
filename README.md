@@ -1,30 +1,71 @@
-# Hi, I'm José Vitor! 👋
+<!-- Perfil -->
+<div align="center">
+  <!-- Redes sociais -->
+  <a href="https://www.linkedin.com/in/jse-vitorr/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/jvitorr.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/jose-vitorr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+<br />
 
-🚀 **Embedded Developer**  
-Always curious, always learning—especially in C & Python.
+<!-- GIF Centralizado -->
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" style="max-width: 70%;" />
+</div>
+<br />
 
-## 🏆 Featured Project
-**Ambev Monitoring System (ML for Beer Industry)**
-- Developed a machine learning model to predict the turbidity of effluent water, helping the beer industry optimize their processes and improve sustainability.
-- [Check it out!](https://github.com/GabrFelps/Ambev-Monitoring-System)
+<!-- Sobre mim -->
+<h3 align="center">Hello, I'm José Vitor 👋</h3>
+<div align="center">
+  <p>🚀 Embedded Developer passionate about C & Python.</p>
+  <p>💻 Always curious, always learning—driven by continuous improvement.</p>
+</div>
+<br />
 
-## 🔧 Skills
-- Embedded systems
-- C & Python programming
-- Machine Learning (ML)
-- Continuous improvement mindset
+<!-- Linguagens e Ferramentas -->
+## 🚀 Languages and Tools
+<div align="center">
+  <a href="https://devdocs.io/c/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C" width="50" height="50" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="50" />
+  </a>
+</div>
+<br />
 
-## 🎶⚽ Interests
-- Music lover (all genres, always open to discovering new sounds)
-- Soccer fan
+<!-- Github Stats -->
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-vitorr&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" style="width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jose-vitorr&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Stats" style="width: 45%;" />
+</div>
+<br />
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/jse-vitorr/)
-- [Instagram](https://www.instagram.com/jvitorr.dev/)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jose-vitorr&theme=github_dark" style="width: 90%;" />
+</div>
+<br />
 
-## 📈 Always Improving
-Every project, every line of code—I’m driven by a desire to improve and learn something new.
+<!-- Contador de visitas -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jose-vitorr&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+<br />
 
----
-
-> “Everything is an opportunity to get better.”
+<!-- Mensagem final -->
+<div align="center">
+  <p><em>"Everything is an opportunity to get better."</em></p>
+  <p>🚀 Thanks for visiting my profile! 🚀</p>
+</div>
