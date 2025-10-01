@@ -22,7 +22,8 @@
 <!-- Sobre mim -->
 <h3 align="center">Hello, I'm José Vitor 👋</h3>
 <div align="center">
-  <p>🚀 Embedded Developer passionate about C & Python.</p>
+  <p>🔧 Embedded Systems Resident passionate about C & Python.</p>
+  <p>💼 IT Support Intern | 🤖 AI Enthusiast</p>
   <p>💻 Always curious, always learning—driven by continuous improvement.</p>
 </div>
 <br />
