@@ -16,6 +16,4 @@ B2 Intermediate English Level
  
 **These are the technologies I'm currently diving into:**
  
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform" />
-</div>
+<img src="https://skillicons.dev/icons?i=r,kubernetes,terraform"/>
