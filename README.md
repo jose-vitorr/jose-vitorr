@@ -7,11 +7,6 @@ B2 Intermediate English Level
 ---
 
 ## 📚 Stack
-
-**This is my stack I use regularly and feel most comfortable with:**
-
-<div align="center">
-  <img src="## 📚 Stack
  
 **This is my stack I use regularly and feel most comfortable with:**
  
@@ -25,18 +20,11 @@ B2 Intermediate English Level
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
 </div>
----
  
 ## 🎯 Learning
  
 **These are the technologies I'm currently diving into:**
  
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform" />
 </div>
-
----
-
- to do great work is to love what you do." - Steve Jobs**
