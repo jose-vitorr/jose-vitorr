@@ -16,4 +16,4 @@ B2 Intermediate English Level
  
 **These are the technologies I'm currently diving into:**
  
-<img src="https://skillicons.dev/icons?i=r,kubernetes,terraform"/>
+<img src="https://skillicons.dev/icons?i=kubernetes,terraform,junit"/>
