@@ -1,68 +1,98 @@
-<!-- Perfil -->
-<div align="center">
-  <!-- Redes sociais -->
-  <a href="https://www.linkedin.com/in/jse-vitorr/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/jvitorr.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</div>
-<br />
+# Hi! I'm José Vitor 👋
 
-<!-- GIF Centralizado -->
-<div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" style="max-width: 70%;" />
-</div>
-<br />
+Hello, my name is José Vitor, I'm an **Embedded Systems Resident** passionate about **C & Python**. Currently working as an **IT Support Intern** and exploring **AI technologies**.
 
-<!-- Sobre mim -->
-<h3 align="center">Hello, I'm José Vitor 👋</h3>
-<div align="center">
-  <p>🔧 Embedded Systems Resident passionate about C & Python.</p>
-  <p>💼 IT Support Intern | 🤖 AI Enthusiast</p>
-  <p>💻 Always curious, always learning—driven by continuous improvement.</p>
-</div>
-<br />
+🏠 Based in **Piauí, Brazil**  
+💼 **IT Support Intern** | 🤖 **AI Enthusiast**  
+📚 **Always curious, always learning—driven by continuous improvement.**
 
-<!-- Linguagens e Ferramentas -->
+---
+
 ## 🚀 Languages and Tools
+
 <div align="center">
-  <a href="https://devdocs.io/c/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C" width="50" height="50" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+---
+
+## 📚 Stack
+
+**This is my stack I use regularly and feel most comfortable with:**
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="50" height="50" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
+</div>
+
+---
+
+## 🎯 Learning
+
+**These are the technologies I'm currently diving into:**
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="50" height="50" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎯 **Systems Analysis and Development (ADS)** - Completing
+- 📜 **Competitive Public Exams** (Concursos Públicos) - IT-focused roles
+- 🏆 **High Performance Evaluations** - Federal Public Institution Internship
+
+---
+
+## 💡 Core Values
+
+- **Honesty** - In my work and interactions
+- **Autonomy** - Taking ownership of challenges
+- **Usefulness** - Creating genuine value for others
+- **Freedom with Purpose** - Building meaningful solutions
+
+---
+
+## 📞 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/jose-vitor" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+  <a href="https://github.com/jose-vitor" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="50" />
+  <a href="mailto:seu.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-<br />
 
-<!-- Github Stats -->
+---
+
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-vitorr&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" style="width: 45%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jose-vitorr&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Stats" style="width: 45%;" />
-</div>
-<br />
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jose-vitorr&theme=github_dark" style="width: 90%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jose-vitor&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-vitor&layout=compact&theme=dark" alt="Top Languages" />
 </div>
-<br />
 
-<!-- Contador de visitas -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jose-vitorr&style=flat-square&color=blue" alt="Profile Views" />
-</div>
-<br />
+---
 
-<!-- Mensagem final -->
-<div align="center">
-  <p><em>"Everything is an opportunity to get better."</em></p>
-  <p>🚀 Thanks for visiting my profile! 🚀</p>
-</div>
+**"The only way to do great work is to love what you do." - Steve Jobs**
